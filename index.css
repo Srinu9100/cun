@@ -1,0 +1,12 @@
+* {
+    box-sizing: border-box;
+}
+body {
+    margin: 0;
+    padding: 0;
+}
+.header-container {
+  display: flex;
+  max-width: 1024px;
+  background-color: #f4f4f4;
+}
